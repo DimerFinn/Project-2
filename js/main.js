@@ -1,1 +1,1 @@
-alert("Коля Фіночек Красавчик!")
+console.log("hello")
